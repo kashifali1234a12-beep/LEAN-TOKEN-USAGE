@@ -195,6 +195,6 @@ Found a new way to save tokens without losing quality? Open an issue or PR with 
 
 <div align="center">
 
-Made by **[@kashifali1234a12-beep](https://github.com/kashifali1234a12-beep)** · MIT License
+Made by **Kashif Ilyas** ([@kashifali1234a12-beep](https://github.com/kashifali1234a12-beep)) · MIT License
 
 </div>

@@ -2,7 +2,7 @@
   "name": "lean-tokens",
   "version": "1.0.0",
   "description": "Cut token/usage-limit burn on long multi-agent work at the same speed and quality: measure, fresh small agents, one-shot waits, short reports.",
-  "author": { "name": "kashifali1234a12-beep", "url": "https://github.com/kashifali1234a12-beep" },
+  "author": { "name": "Kashif Ilyas", "url": "https://github.com/kashifali1234a12-beep" },
   "license": "MIT",
   "keywords": ["tokens", "usage", "cost", "subagents", "claude-code"]
 }

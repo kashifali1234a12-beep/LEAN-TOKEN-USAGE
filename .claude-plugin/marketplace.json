@@ -1,6 +1,6 @@
 {
   "name": "lean-token-usage",
-  "owner": { "name": "kashifali1234a12-beep" },
+  "owner": { "name": "Kashif Ilyas" },
   "plugins": [
     { "name": "lean-tokens", "source": "./", "description": "Same speed, same quality, far less usage." }
   ]
