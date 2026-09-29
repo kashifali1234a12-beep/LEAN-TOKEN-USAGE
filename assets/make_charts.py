@@ -47,9 +47,9 @@ def frame(w, h, colors, body):
 RED, GREEN, AMBER, VIOLET, BLUE, SLATE = "#f43f5e", "#10b981", "#f59e0b", "#8b5cf6", "#3b82f6", "#64748b"
 
 # ---- 1. hero -------------------------------------------------------------------------------------------------
-b = text(70, 92, "lean-tokens", 22, "#a5b4fc", 700, "start", 'letter-spacing="3"')
-b += text(70, 170, "−86%", 108, "#34d399", 900, "start", 'filter="url(#glow)"')
-b += text(70, 220, "token usage per active hour", 28, "#f9fafb", 700, "start")
+b = text(70, 66, "lean-tokens", 22, "#a5b4fc", 700, "start", 'letter-spacing="3"')
+b += text(70, 182, "−86%", 108, "#34d399", 900, "start", 'filter="url(#glow)"')
+b += text(70, 226, "token usage per active hour", 28, "#f9fafb", 700, "start")
 b += text(70, 262, "Same model. Same speed. Same quality.", 22, "#c7d2fe", 500, "start")
 b += text(70, 300, "Measured on a real multi-day, multi-agent build.", 16, "#94a3b8", 400, "start")
 for i, (lbl, c) in enumerate([("fresh small agents", VIOLET), ("one-shot waits", BLUE), ("short reports", AMBER)]):
